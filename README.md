@@ -1,3 +1,4 @@
+[![deploy-toy-website-test](https://github.com/daniie/toy-website-test/actions/workflows/workflow.yml/badge.svg)](https://github.com/daniie/toy-website-test/actions/workflows/workflow.yml)
 
 # Contributing
 
